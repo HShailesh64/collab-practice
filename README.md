@@ -1,2 +1,2 @@
 # collab-practiceee
-# Typo is there remove it
+# Type is Removed
